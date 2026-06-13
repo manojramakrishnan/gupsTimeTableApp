@@ -1,0 +1,277 @@
+{
+  "teachers": [
+    {
+      "code": "PKN",
+      "name": "Priya Kumari",
+      "homeClass": "5A",
+      "gradeBand": "5TH",
+      "listedPeriods": 30,
+      "periodNote": "Period total from uploaded workload table.",
+      "assignments": [
+        { "subjectCode": "BS", "joinedClass": false, "classGroups": [["5A"], ["5B"]], "note": "" },
+        { "subjectCode": "MAL", "joinedClass": false, "classGroups": [["6C"], ["6D"], ["6B"]], "note": "" },
+        { "subjectCode": "AE", "joinedClass": false, "classGroups": [["5A"]], "note": "" },
+        { "subjectCode": "WE", "joinedClass": false, "classGroups": [["5A"]], "note": "" }
+      ]
+    },
+    {
+      "code": "AVR",
+      "name": "Athira V R",
+      "homeClass": "5B",
+      "gradeBand": "5TH",
+      "listedPeriods": 30,
+      "periodNote": "Period total from uploaded workload table.",
+      "assignments": [
+        { "subjectCode": "ENG", "joinedClass": false, "classGroups": [["5A"], ["5B"]], "note": "" },
+        { "subjectCode": "MAL", "joinedClass": false, "classGroups": [["5D"]], "note": "" },
+        { "subjectCode": "BS", "joinedClass": false, "classGroups": [["6C"], ["6D"]], "note": "" },
+        { "subjectCode": "HE", "joinedClass": false, "classGroups": [["5B"]], "note": "" },
+        { "subjectCode": "AE", "joinedClass": false, "classGroups": [["5B"]], "note": "" },
+        { "subjectCode": "WE", "joinedClass": false, "classGroups": [["5B"]], "note": "" },
+        { "subjectCode": "LIB", "joinedClass": false, "classGroups": [["5B"]], "note": "" }
+      ]
+    },
+    {
+      "code": "ASR",
+      "name": "Angel Nisha",
+      "homeClass": "5C",
+      "gradeBand": "5TH",
+      "listedPeriods": 30,
+      "periodNote": "Period total from uploaded workload table.",
+      "assignments": [
+        { "subjectCode": "MAL", "joinedClass": false, "classGroups": [["5A"], ["5B"], ["5C"]], "note": "" },
+        { "subjectCode": "SS", "joinedClass": false, "classGroups": [["5D"]], "note": "" },
+        { "subjectCode": "MAT", "joinedClass": false, "classGroups": [["7A"]], "note": "" },
+        { "subjectCode": "WE", "joinedClass": false, "classGroups": [["5C"]], "note": "" },
+        { "subjectCode": "LIB", "joinedClass": false, "classGroups": [["5C"]], "note": "" }
+      ]
+    },
+    {
+      "code": "DPS",
+      "name": "Divya P S",
+      "homeClass": "5D",
+      "gradeBand": "5TH",
+      "listedPeriods": 30,
+      "periodNote": "Period total from uploaded workload table.",
+      "assignments": [
+        { "subjectCode": "MAT", "joinedClass": false, "classGroups": [["5B"], ["5C"], ["5D"]], "note": "" },
+        { "subjectCode": "BS", "joinedClass": false, "classGroups": [["7C"], ["7E"]], "note": "" },
+        { "subjectCode": "IT", "joinedClass": false, "classGroups": [["5D"]], "note": "" },
+        { "subjectCode": "HE", "joinedClass": false, "classGroups": [["5D"]], "note": "" },
+        { "subjectCode": "AE", "joinedClass": false, "classGroups": [["5D"]], "note": "" },
+        { "subjectCode": "WE", "joinedClass": false, "classGroups": [["5D"]], "note": "" },
+        { "subjectCode": "LIB", "joinedClass": false, "classGroups": [["5D"]], "note": "" }
+      ]
+    },
+    {
+      "code": "AMV",
+      "name": "Anju M V",
+      "homeClass": "6A",
+      "gradeBand": "6TH",
+      "listedPeriods": 29,
+      "periodNote": "Period total from uploaded workload table.",
+      "assignments": [
+        { "subjectCode": "MAT", "joinedClass": false, "classGroups": [["6A"], ["7B"], ["7C"], ["7D"], ["7E"]], "note": "" },
+        { "subjectCode": "IT", "joinedClass": false, "classGroups": [["6A"]], "note": "" },
+        { "subjectCode": "HE", "joinedClass": false, "classGroups": [["6A"]], "note": "" },
+        { "subjectCode": "WE", "joinedClass": false, "classGroups": [["6A"]], "note": "" },
+        { "subjectCode": "LIB", "joinedClass": false, "classGroups": [["6A"]], "note": "" }
+      ]
+    },
+    {
+      "code": "BVO",
+      "name": "Bindu Vaman",
+      "homeClass": "6B",
+      "gradeBand": "6TH",
+      "listedPeriods": 29,
+      "periodNote": "Period total from uploaded workload table.",
+      "assignments": [
+        { "subjectCode": "ENG", "joinedClass": false, "classGroups": [["6A"], ["6B"]], "note": "" },
+        { "subjectCode": "SS", "joinedClass": false, "classGroups": [["7A"], ["7D"], ["7E"]], "note": "" },
+        { "subjectCode": "IT", "joinedClass": false, "classGroups": [["6B"]], "note": "" },
+        { "subjectCode": "HE", "joinedClass": false, "classGroups": [["6B"]], "note": "" },
+        { "subjectCode": "WE", "joinedClass": false, "classGroups": [["6B"]], "note": "" },
+        { "subjectCode": "LIB", "joinedClass": false, "classGroups": [["6B"]], "note": "" }
+      ]
+    },
+    {
+      "code": "SKC",
+      "name": "Sandya K C",
+      "homeClass": "6C",
+      "gradeBand": "6TH",
+      "listedPeriods": 29,
+      "periodNote": "Period total from uploaded workload table.",
+      "assignments": [
+        { "subjectCode": "SS", "joinedClass": false, "classGroups": [["6C"], ["6A"]], "note": "" },
+        { "subjectCode": "ENG", "joinedClass": false, "classGroups": [["5C"], ["5D"], ["7D"]], "note": "" },
+        { "subjectCode": "IT", "joinedClass": false, "classGroups": [["6C"]], "note": "" },
+        { "subjectCode": "HE", "joinedClass": false, "classGroups": [["6C"]], "note": "" },
+        { "subjectCode": "WE", "joinedClass": false, "classGroups": [["6C"]], "note": "" },
+        { "subjectCode": "LIB", "joinedClass": false, "classGroups": [["6C"]], "note": "" }
+      ]
+    },
+    {
+      "code": "DML",
+      "name": "Dhanya M L",
+      "homeClass": "6D",
+      "gradeBand": "6TH",
+      "listedPeriods": 29,
+      "periodNote": "Period total from uploaded workload table.",
+      "assignments": [
+        { "subjectCode": "SS", "joinedClass": false, "classGroups": [["6B"], ["6D"]], "note": "" },
+        { "subjectCode": "MAL", "joinedClass": false, "classGroups": [["7A"], ["7B"], ["7C"]], "note": "" },
+        { "subjectCode": "LIB", "joinedClass": false, "classGroups": [["6D"]], "note": "" }
+      ]
+    },
+    {
+      "code": "ASN",
+      "name": "Anuja S Nair",
+      "homeClass": "7A",
+      "gradeBand": "7TH",
+      "listedPeriods": 29,
+      "periodNote": "Period total from uploaded workload table.",
+      "assignments": [
+        { "subjectCode": "BS", "joinedClass": false, "classGroups": [["7A"], ["7B"]], "note": "" },
+        { "subjectCode": "MAT", "joinedClass": false, "classGroups": [["6B"], ["6C"], ["6D"]], "note": "" },
+        { "subjectCode": "IT", "joinedClass": false, "classGroups": [["7A"]], "note": "" },
+        { "subjectCode": "HE", "joinedClass": false, "classGroups": [["7A"]], "note": "" },
+        { "subjectCode": "WE", "joinedClass": false, "classGroups": [["7A"]], "note": "" },
+        { "subjectCode": "LIB", "joinedClass": false, "classGroups": [["7A"]], "note": "" }
+      ]
+    },
+    {
+      "code": "SKS",
+      "name": "Sujitha Kumari",
+      "homeClass": "7B",
+      "gradeBand": "7TH",
+      "listedPeriods": 29,
+      "periodNote": "Period total from uploaded workload table.",
+      "assignments": [
+        { "subjectCode": "SS", "joinedClass": false, "classGroups": [["7B"], ["7C"], ["5A"], ["5B"], ["5C"]], "note": "" },
+        { "subjectCode": "IT", "joinedClass": false, "classGroups": [["7B"]], "note": "" },
+        { "subjectCode": "HE", "joinedClass": false, "classGroups": [["7B"]], "note": "" },
+        { "subjectCode": "WE", "joinedClass": false, "classGroups": [["7B"]], "note": "" },
+        { "subjectCode": "LIB", "joinedClass": false, "classGroups": [["7B"]], "note": "" }
+      ]
+    },
+    {
+      "code": "MMZ",
+      "name": "Minim Z",
+      "homeClass": "7C",
+      "gradeBand": "7TH",
+      "listedPeriods": 24,
+      "periodNote": "Period total from uploaded workload table.",
+      "assignments": [
+        { "subjectCode": "ENG", "joinedClass": false, "classGroups": [["7A"], ["7B"], ["7C"]], "note": "" },
+        { "subjectCode": "BS", "joinedClass": false, "classGroups": [["7D"]], "note": "" },
+        { "subjectCode": "IT", "joinedClass": false, "classGroups": [["7C"]], "note": "" },
+        { "subjectCode": "HE", "joinedClass": false, "classGroups": [["7C"]], "note": "" },
+        { "subjectCode": "WE", "joinedClass": false, "classGroups": [["7C"]], "note": "" },
+        { "subjectCode": "LIB", "joinedClass": false, "classGroups": [["7C"]], "note": "" }
+      ]
+    },
+    {
+      "code": "AAC",
+      "name": "Aswathy A C",
+      "homeClass": "7D",
+      "gradeBand": "7TH",
+      "listedPeriods": 17,
+      "periodNote": "Period total from uploaded workload table.",
+      "assignments": [
+        { "subjectCode": "MAL", "joinedClass": false, "classGroups": [["7D"], ["6A"]], "note": "" },
+        { "subjectCode": "MAT", "joinedClass": false, "classGroups": [["5A"]], "note": "" }
+      ]
+    },
+    {
+      "code": "SR",
+      "name": "Sheeja R",
+      "homeClass": "7E",
+      "gradeBand": "7TH",
+      "listedPeriods": 29,
+      "periodNote": "Period total from uploaded workload table.",
+      "assignments": [
+        { "subjectCode": "ENG", "joinedClass": false, "classGroups": [["7E"], ["6C"], ["6D"]], "note": "" },
+        { "subjectCode": "BS", "joinedClass": false, "classGroups": [["5C"], ["5D"]], "note": "" },
+        { "subjectCode": "IT", "joinedClass": false, "classGroups": [["7E"]], "note": "" },
+        { "subjectCode": "HE", "joinedClass": false, "classGroups": [["7E"]], "note": "" },
+        { "subjectCode": "WE", "joinedClass": false, "classGroups": [["7E"]], "note": "" },
+        { "subjectCode": "LIB", "joinedClass": false, "classGroups": [["7E"]], "note": "" }
+      ]
+    },
+    {
+      "code": "ASS",
+      "name": "Anoopa S S",
+      "homeClass": "",
+      "gradeBand": "LANGUAGE",
+      "listedPeriods": 14,
+      "periodNote": "Sanskrit joined classes are counted as one period per class group; includes 3 support periods from the table.",
+      "assignments": [
+        {
+          "subjectCode": "SAN",
+          "joinedClass": true,
+          "classGroups": [["5A", "5B"], ["5C", "5D"], ["6A", "6B"], ["6C", "6D"], ["7A", "7B"], ["7C", "7D"], ["7E"]],
+          "note": "Sanskrit language allocation; paired classes are combined."
+        },
+        { "subjectCode": "HE", "joinedClass": false, "classGroups": [["5A"], ["5C"]], "note": "" },
+        { "subjectCode": "IT", "joinedClass": false, "classGroups": [["7D"]], "note": "" }
+      ]
+    },
+    {
+      "code": "NP",
+      "name": "Noushad",
+      "homeClass": "",
+      "gradeBand": "LANGUAGE",
+      "listedPeriods": 15,
+      "periodNote": "Arabic joined classes are counted as one period per class group; includes 5 support periods from the table.",
+      "assignments": [
+        {
+          "subjectCode": "ARA",
+          "joinedClass": true,
+          "classGroups": [["5A", "5B"], ["5C", "5D"], ["6A", "6B"], ["6C", "6D"], ["7A", "7B"], ["7C", "7D"], ["7E"]],
+          "note": "Arabic language allocation; paired classes are combined."
+        },
+        { "subjectCode": "IT", "joinedClass": false, "classGroups": [["5A"], ["5B"], ["5C"], ["6D"]], "note": "" },
+        { "subjectCode": "HE", "joinedClass": false, "classGroups": [["7D"]], "note": "" }
+      ]
+    },
+    {
+      "code": "LA",
+      "name": "Latha",
+      "homeClass": "",
+      "gradeBand": "LANGUAGE",
+      "listedPeriods": 21,
+      "periodNote": "Period total from uploaded workload table.",
+      "assignments": [
+        { "subjectCode": "HIN", "joinedClass": false, "classGroups": [["5A"], ["7A"], ["7B"], ["7C"], ["7D"], ["7E"]], "note": "" },
+        { "subjectCode": "LIB", "joinedClass": false, "classGroups": [["5A"], ["7D"]], "note": "" },
+        { "subjectCode": "AE", "joinedClass": false, "classGroups": [["5C"]], "note": "" },
+        { "subjectCode": "WE", "joinedClass": false, "classGroups": [["6D"]], "note": "" }
+      ]
+    },
+    {
+      "code": "H1",
+      "name": "H1",
+      "homeClass": "",
+      "gradeBand": "LANGUAGE",
+      "listedPeriods": 20,
+      "periodNote": "Period total from uploaded workload table.",
+      "assignments": [
+        { "subjectCode": "HIN", "joinedClass": false, "classGroups": [["5B"], ["5C"], ["5D"], ["6A"], ["6B"], ["6C"], ["6D"]], "note": "" },
+        { "subjectCode": "HE", "joinedClass": false, "classGroups": [["6D"]], "note": "" },
+        { "subjectCode": "WE", "joinedClass": false, "classGroups": [["7D"]], "note": "" }
+      ]
+    },
+    {
+      "code": "SVR",
+      "name": "Sindu V R",
+      "homeClass": "",
+      "gradeBand": "LANGUAGE",
+      "listedPeriods": 16,
+      "periodNote": "Period total from uploaded workload table.",
+      "assignments": [
+        { "subjectCode": "MAL", "joinedClass": false, "classGroups": [["7E"]], "note": "" },
+        { "subjectCode": "BS", "joinedClass": false, "classGroups": [["6A"], ["6B"]], "note": "" }
+      ]
+    }
+  ]
+}

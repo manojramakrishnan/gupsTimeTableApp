@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+.DS_Store
+target/
+frontend/dist/
+frontend/node_modules/
+work/

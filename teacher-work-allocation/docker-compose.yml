@@ -1,0 +1,8 @@
+services:
+  teacher-work-allocation:
+    build: .
+    image: teacher-work-allocation:local
+    container_name: teacher-work-allocation
+    ports:
+      - "8080:8080"
+    restart: unless-stopped

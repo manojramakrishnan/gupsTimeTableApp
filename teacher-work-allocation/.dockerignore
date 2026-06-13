@@ -1,0 +1,10 @@
+.git
+.idea
+.vscode
+.DS_Store
+outputs
+work
+target
+frontend/dist
+frontend/node_modules
+**/*.log
